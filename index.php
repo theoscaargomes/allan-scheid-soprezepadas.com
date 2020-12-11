@@ -7,9 +7,7 @@
 echo "Precisou, é só chamar!!";
 ?>
 
-<?php 
-    echo "<img src='IMG_20190724_125434046.jpg' alt='Allan-scheid>"; 
-?> 
+<img src="IMG_20190724_125434046.jpg" alt="AVS" style="width:500px;height:600px;">
 
 </body>
 </html>
